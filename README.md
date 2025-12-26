@@ -62,6 +62,7 @@ aws configure
 ```bash
 git clone https://github.com/namantyagi06/terraform-project-implementation.git
 cd terraform-project-implementation
+code .
 ```
 
 ---
@@ -100,7 +101,7 @@ Type `yes` when prompted.
 
 ---
 
-### 6️⃣ Destroy Resources (Optional)
+### 6️⃣ Destroy Resources (Optional) After completing the project.
 
 ```bash
 terraform destroy
